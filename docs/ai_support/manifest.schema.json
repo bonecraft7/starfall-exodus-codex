@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "_session_manifest",
+  "type": "object",
+  "properties": {
+    "created_utc": {
+      "type": "string"
+    },
+    "source_url": {
+      "type": "string"
+    },
+    "unpacked": {
+      "type": "boolean"
+    },
+    "focus": {
+      "type": "string",
+      "enum": [
+        "play",
+        "development"
+      ]
+    },
+    "game_files_path": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "created_utc",
+    "source_url",
+    "unpacked",
+    "focus",
+    "game_files_path"
+  ]
+}
