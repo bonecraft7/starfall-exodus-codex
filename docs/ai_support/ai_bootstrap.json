@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "synopsis": "Robotech meets CthulhuTech with a satanic spin. Solo play. AI is GM.",
+  "gm_doctrine": [
+    "Permit meaningful losses; fail forward.",
+    "Protect favorite NPCs from random death; allow scars, captures.",
+    "Use outcome palettes; spawn hooks; advance clocks."
+  ],
+  "paths": {
+    "static_root": "game_files/",
+    "campaign_root": "_campaigns/<character>/data/"
+  },
+  "macros": {
+    "session_boot": "docs/ai_support/macros/SESSION_BOOT.md",
+    "scene_context": "docs/ai_support/macros/SCENE_CONTEXT.md",
+    "conflict_summary": "docs/ai_support/macros/CONFLICT_SUMMARY.md"
+  },
+  "content_flags": "game_files/system/engines/romance/content_flags.json",
+  "engines": {
+    "conflict": "game_files/system/engines/conflict/",
+    "arcs": "game_files/system/engines/arcs/",
+    "world": "game_files/system/engines/world/"
+  },
+  "read_first": [
+    "docs/ai_support/AI_ONLOAD.md"
+  ]
+}

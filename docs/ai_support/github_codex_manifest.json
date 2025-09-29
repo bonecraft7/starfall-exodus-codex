@@ -1,0 +1,7 @@
+﻿{
+  "repo": "bonecraft7/starfall-exodus",
+  "default_branch": "main",
+  "codex_path": "docs/ai_support/",
+  "include_patterns": ["*.md","*.json"],
+  "notes": "Used by STARFALL CODEX GH to locate design docs."
+}

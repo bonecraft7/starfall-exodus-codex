@@ -1,0 +1,142 @@
+{
+  "repo": "bonecraft7/starfall-exodus",
+  "branch": "exodus_dev",
+  "generated_at": "2025-09-29T19:37:54.142Z",
+  "files": [
+    {
+      "path": "Starfall_Save.zip",
+      "size": 61347221,
+      "sha256": "5e28c12fdaa15b82d41c806910a1ed70c24a7a3e7c434a4d4f48202ea02b66eb"
+    },
+    {
+      "path": "docs/ai_support/00_PROJECT_OVERVIEW.md",
+      "size": 495,
+      "sha256": "eb8771ec840c0048f195e4b887c1269ae63a43cc397a5a53edd6be2e9e32584e"
+    },
+    {
+      "path": "docs/ai_support/01_ENGINE_SYSTEMS.md",
+      "size": 1193,
+      "sha256": "8b42fc27523bb3d8239ebdb0122c8f0a28c182745a5522dd9dfd0554eefcd7f9"
+    },
+    {
+      "path": "docs/ai_support/02_REPO_STRUCTURE.md",
+      "size": 573,
+      "sha256": "433e8a34a8e8a4bc392dec39939b04bc4081d760013ef699179d50b9e658b57a"
+    },
+    {
+      "path": "docs/ai_support/03_INTIMACY_BEHAVIORS.md",
+      "size": 808,
+      "sha256": "a62fa3ec6b03717cfb03bae0d8f675c50e758962f983f25ce41aa6568d31772b"
+    },
+    {
+      "path": "docs/ai_support/04_RELATIONSHIP_SYSTEM.md",
+      "size": 903,
+      "sha256": "481d204ef269753c875cc7273e3eb75d04b00a79d1ad1ada87c2749ddcf5041f"
+    },
+    {
+      "path": "docs/ai_support/AI_ONLOAD.md",
+      "size": 742,
+      "sha256": "31dc789ab661e519df8db4d7f75d93a3d6d2fb8c39c4a81dd2ebb144e3c241a4"
+    },
+    {
+      "path": "docs/ai_support/AI_SUPPORT_PLAYBOOK_CHECKLIST.md",
+      "size": 74,
+      "sha256": "f03616ef630da81c129548786da1c004b9ed0306f2bfda14553949885e27ea9d"
+    },
+    {
+      "path": "docs/ai_support/CORE_LOGIC_CHARTER.md",
+      "size": 2688,
+      "sha256": "9f67b41168863ddf9ff2974ce8abe5de79a1a7f9bad874ce6bf14fc6590a6fd7"
+    },
+    {
+      "path": "docs/ai_support/GPT_LOAD_PLAYBOOK.md",
+      "size": 1845,
+      "sha256": "a316e3306d08b17dd20496fc4f12dc74501c23fa5a656d6ddda9793a3be3d24e"
+    },
+    {
+      "path": "docs/ai_support/GPT_SAVE_PLAYBOOK.md",
+      "size": 1045,
+      "sha256": "62b07943f324b52fab634d2f6ecbc1da073aacd2d735ae369f651945c89af926"
+    },
+    {
+      "path": "docs/ai_support/LOAD_STARFALL.md",
+      "size": 1925,
+      "sha256": "9e3fa21a7fa73be0594629b6586e4f4aaef61609464dc0272b111d905124101d"
+    },
+    {
+      "path": "docs/ai_support/PREVIOUSLY_GUIDE.md",
+      "size": 167,
+      "sha256": "35c97ab60a8f8ce759515b6064e374dfa9352d2a18ac4ca8f8c712a25c5d1c53"
+    },
+    {
+      "path": "docs/ai_support/PROJECT_INSTRUCTIONS.md",
+      "size": 2983,
+      "sha256": "a1b17ab113410b4469954d895edc002a39296ca06976cd1b0cbce495098ea1eb"
+    },
+    {
+      "path": "docs/ai_support/PROJECT_SCOPE.json",
+      "size": 942,
+      "sha256": "b2c5080e5c56de8eb26f2f4c8a4f2eea5a1387933f1a788d75a7187a219679bf"
+    },
+    {
+      "path": "docs/ai_support/README.md",
+      "size": 76,
+      "sha256": "134613057afd570e136e207115d47f1ea8b07f9ea065996180df224dc123e25e"
+    },
+    {
+      "path": "docs/ai_support/README_COMMENTS.md",
+      "size": 353,
+      "sha256": "3876e88b7a7d00314ded997933f90b330ad434ff9e47df2b43ca32f3ea465a0d"
+    },
+    {
+      "path": "docs/ai_support/ai_bootstrap.json",
+      "size": 930,
+      "sha256": "d13fe880874e85f96b96ef3828119fc9e9131ec34e3cd1e862fca271ae96fb47"
+    },
+    {
+      "path": "docs/ai_support/github_codex_manifest.json",
+      "size": 214,
+      "sha256": "e16d78410ce296121482cff5edf63014a2d0f7d72b320288ff726722e79cca02"
+    },
+    {
+      "path": "docs/ai_support/macros/CONFLICT_SUMMARY.md",
+      "size": 216,
+      "sha256": "1045f80611e54a12b14ee5d87004591873c1538c7123b3ad312119d56b4f1b1b"
+    },
+    {
+      "path": "docs/ai_support/macros/SCENE_CONTEXT.md",
+      "size": 191,
+      "sha256": "a071ba977843a01a079b283fd12f3d8cb7f8e6f9dc5b7398a0c62bc37e4d9d7c"
+    },
+    {
+      "path": "docs/ai_support/macros/SESSION_BOOT.md",
+      "size": 230,
+      "sha256": "63fe5b35d21603f06a80b552baf67ccf6bdda1f86cc0c4c2814e489f63415e5e"
+    },
+    {
+      "path": "docs/ai_support/manifest.schema.json",
+      "size": 554,
+      "sha256": "bccd4d3a69c64735a83816221f4e4c8927d146f65c4d69d58fd82c2e311b4d96"
+    },
+    {
+      "path": "docs/ai_support/penny_instructions_project.md",
+      "size": 3692,
+      "sha256": "2b98996103c3961f7ef181742c96824041ef94ffc55364b853d6875f383d65e9"
+    },
+    {
+      "path": "docs/ai_support/ps_version.json",
+      "size": 31,
+      "sha256": "d30498d99eff4a3408bf066438dea05c1b7e3745348194e2d7d11fa64fa09ab6"
+    },
+    {
+      "path": "docs/ai_support/repo_guide.md",
+      "size": 417,
+      "sha256": "50790a8174d84eb63fea6c5e506d0f70d9ec54eef53051d72a6cbcd878f7eca8"
+    },
+    {
+      "path": "docs/ai_support/scan_priority.json",
+      "size": 386,
+      "sha256": "a2dc454694b85edaddd11101eee3bb2c289dc8dbd052cfb931c2e7763e2e8299"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "version": "2025-09-21",
+  "modules": [
+    {
+      "name": "AI Instructions",
+      "paths": ["docs/ai_support/05_AI_INSTRUCTIONS.md"],
+      "purpose": "Chat behavior, init acknowledgements, play rules.",
+      "owner": "Locke",
+      "patch_targets": []
+    },
+    {
+      "name": "Engines",
+      "paths": ["docs/ai_support/01_ENGINE_SYSTEMS.md"],
+      "purpose": "Dice core, conflict engines, creation hooks.",
+      "owner": "Locke",
+      "patch_targets": [
+        "game_files/system/engines/**"
+      ]
+    },
+    {
+      "name": "Relationship/Intimacy",
+      "paths": [
+        "docs/ai_support/04_RELATIONSHIP_SYSTEM.md",
+        "docs/ai_support/03_INTIMACY_BEHAVIORS.md"
+      ],
+      "purpose": "Beats, styles, behaviors; informs play + generators.",
+      "owner": "Locke",
+      "patch_targets": [
+        "game_files/system/engines/relationship/**",
+        "game_files/system/engines/intimacy/**"
+      ]
+    }
+  ]
+}
